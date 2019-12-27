@@ -1,0 +1,11 @@
+https://colab.research.google.com/drive/1DXkpo9PmH9_HiCSz9NQlZ9vGQtMIYqmF?source=post_page-----47a0238aeac1----------------------#scrollTo=4YSv7SqUR6bd
+https://towardsdatascience.com/predicting-house-prices-with-linear-regression-machine-learning-from-scratch-part-ii-47a0238aeac1
+https://medium.com/@ben_lau93/house-prices-prediction-using-andrew-ngs-machine-learning-algorithm-31b29a81acb8
+https://towardsdatascience.com/everything-you-need-to-know-about-scatter-plots-for-data-visualisation-924144c0bc5
+https://www.kaggle.com/tsilveira/applying-heatmaps-for-categorical-data-analysis
+http://seaborn.pydata.org/generated/seaborn.heatmap.html
+https://www.datacamp.com/community/tutorials/categorical-data
+https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63
+https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b
+https://towardsdatascience.com/machine-learning-project-predicting-boston-house-prices-with-regression-b4e47493633d
+https://github.com/rromanss23/Machine_Leaning_Engineer_Udacity_NanoDegree/blob/master/projects/boston_housing/boston_housing.ipynb
