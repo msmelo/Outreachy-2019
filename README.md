@@ -1,5 +1,5 @@
 # Outreachy-2019
-The project I've participated during Outreachy contribution round for Mozilla
+The project I've participated during Outreachy contribution round for Mozilla Foundation
  
 # outreachy-datascience-2019
 
